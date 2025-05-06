@@ -14,7 +14,7 @@ arch:
 ports:
   3001/tcp: 3001
 ports_description:
-  3001/tcp: "Dashdot page port, default is 3001."
+  3001/tcp: "Web interface port, default is 3001."
 options: {}
 schema: {}
 url: "https://github.com/Ondra9071/hassio-addons/tree/main/dashdot"
