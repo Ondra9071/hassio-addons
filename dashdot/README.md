@@ -6,7 +6,7 @@
 ![Supports armhf Architecture][armhf-shield]
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
-![Preview](https://github.com/user-attachments/assets/3d02ac66-3e03-498d-a5e2-0d5ce4b879aa)
+![Preview][preview]
 
 ## About
 This addon is based on the [mauricenino/dashdot](https://hub.docker.com/r/mauricenino/dashdot) docker image and it allows user to see simple information about the host system via nice looking web interface.
@@ -31,6 +31,7 @@ Assets
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
 [version]: https://img.shields.io/badge/Version-0.0.2-orange.svg
-[production-ready]: https://img.shields.io/badge/Production%20ready-Yes-green.svg
+[production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
 
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/Ondra9071/hassio-addons
+[preview]: https://i.imgur.com/itC9dCY.png
