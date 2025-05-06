@@ -31,7 +31,7 @@ Assets
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
 [version]: https://img.shields.io/badge/Version-0.0.2-orange.svg
-[production-ready]: https://img.shields.io/badge/Production%20ready-Yes-green.svg
+[production-ready]: https://img.shields.io/badge/Production%20ready-yes-green.svg
 
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/Ondra9071/hassio-addons
 [preview]: https://i.imgur.com/itC9dCY.png
