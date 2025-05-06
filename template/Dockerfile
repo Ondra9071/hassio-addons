@@ -1,1 +1,0 @@
-FROM author/img:latest
