@@ -1,13 +1,18 @@
 # hassio-addons
 [![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/Ondra9071)
+![Github Stars](https://img.shields.io/github/stars/Ondra9071/hassio-addons)
 
+<!--
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
 ![Supports armhf Architecture][armhf-shield]
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
+-->
 
 <a href="https://www.buymeacoffee.com/ondra907"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ondra907&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+[![Stargazers repo roster for @Ondra9071/hassio-addons](https://reporoster.com/stars/Ondra9071/hassio-addons)](https://github.com/Ondra9071/hassio-addons/stargazers)
 
 Collection of my Home Assistant addons.
 
