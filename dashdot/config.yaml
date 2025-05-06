@@ -1,0 +1,25 @@
+name: Dashdot
+version: "0.0.2-beta"
+slug: dashdot
+description: "dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind. It is intended to be used for smaller VPS and private servers."
+startup: application
+boot: auto
+arch:
+  - amd64
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+ports:
+  3001/tcp: 3001
+ports_description:
+  3001/tcp: "Dashdot page port, default is 3001."
+options: {}
+schema: {}
+url: "https://github.com/Ondra9071/hassio-addons/tree/main/dashdot"
+panel_icon: "mdi:broadcast"
+ingress: false
+advanced: false
+hassio_api: true
+docker_api: true
