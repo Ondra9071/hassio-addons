@@ -1,16 +1,5 @@
-# Example Home Assistant add-on repository
-
-This repository can be used as a "blueprint" for add-on development to help you get started.
-
-Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
-
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fhome-assistant%2Faddons-example)
-
-## Add-ons
-
-This repository contains the following add-ons
-
-### [Example add-on](./example)
+# hassio-addons
+[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/Ondra9071)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -18,26 +7,25 @@ This repository contains the following add-ons
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-_Example add-on to use as a blueprint for new add-ons._
+<a href="https://www.buymeacoffee.com/ondra907"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ondra907&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+Collection of my Home Assistant addons.
+
+## Installation
+[![add-addon-repository](https://camo.githubusercontent.com/30d41447c8fdefec56880fcce608c09f79c1aaae8f38af261f7817ac0392e421/68747470733a2f2f6d792e686f6d652d617373697374616e742e696f2f6261646765732f73757065727669736f725f6164645f6164646f6e5f7265706f7369746f72792e737667)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/Ondra9071/hassio-addons)
+
+If you want to do add it manually, use the following URL to add this repository:
+```
+https://github.com/Ondra9071/hassio-addons
+```
+## Add-ons provided by this repository
+| Addon Name  | Production ready | Version | Original repo
+| -------- | ---- | ------------ | ------- |
+| Dashdot  | ✅  | 0.0.2-beta | [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot)
 
 <!--
-
-Notes to developers after forking or using the github template feature:
-- While developing comment out the 'image' key from 'example/config.yaml' to make the supervisor build the addon
-  - Remember to put this back when pushing up your changes.
-- When you merge to the 'main' branch of your repository a new build will be triggered.
-  - Make sure you adjust the 'version' key in 'example/config.yaml' when you do that.
-  - Make sure you update 'example/CHANGELOG.md' when you do that.
-  - The first time this runs you might need to adjust the image configuration on github container registry to make it public
-  - You may also need to adjust the github Actions configuration (Settings > Actions > General > Workflow > Read & Write)
-- Adjust the 'image' key in 'example/config.yaml' so it points to your username instead of 'home-assistant'.
-  - This is where the build images will be published to.
-- Rename the example directory.
-  - The 'slug' key in 'example/config.yaml' should match the directory name.
-- Adjust all keys/url's that points to 'home-assistant' to now point to your user/fork.
-- Share your repository on the forums https://community.home-assistant.io/c/projects/9
-- Do awesome stuff!
- -->
+assets
+-->
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
