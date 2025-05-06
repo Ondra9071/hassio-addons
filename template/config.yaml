@@ -1,0 +1,23 @@
+name: Test
+version: "0.0.1-beta"
+slug: test
+description: "test addon"
+startup: application
+boot: auto
+arch:
+  - amd64
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+ports:
+  80/tcp: null
+ports_description:
+  80/tcp: "port description"
+options: {}
+schema: {}
+url: "https://github.com/Ondra9071/hassio-addons/"
+panel_icon: "mdi:broadcast"
+ingress: false
+advanced: false
