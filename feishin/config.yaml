@@ -1,0 +1,16 @@
+name: Feishin
+version: "0.0.1-beta"
+slug: feishin
+description: "A modern self-hosted music player from Jellyfin, Navidrome or Subsonic server."
+arch:
+  - amd64
+  - armhf
+  - armv7
+  - aarch64
+  - i386
+ports:
+  9180/tcp: 9180
+ports_description:
+  8443/tcp: "Web interface port, default is 9180."
+url: "https://github.com/Ondra9071/hassio-addons/tree/main/feishin"
+panel_icon: "mdi:broadcast"
