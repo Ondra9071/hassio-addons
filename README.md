@@ -27,6 +27,7 @@ https://github.com/Ondra9071/hassio-addons
 | Addon Name  | Production ready | Version | Original repo
 | -------- | ---- | ------------ | ------- |
 | Dashdot  | ✅  | 0.0.2-beta | [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot)
+| Feishin  | ✅  | 0.0.1-beta | [jeffvli/feishin ](https://github.com/jeffvli/feishin)
 
 <!--
 assets
