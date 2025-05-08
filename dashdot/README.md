@@ -11,6 +11,12 @@
 ## About
 This addon is based on the [mauricenino/dashdot](https://hub.docker.com/r/mauricenino/dashdot) docker image and it allows user to see simple information about the host system via nice looking web interface.
 
+## Known issues
+- [ ] Storage does not show as mounted, and storage types (SSD/HDD) are wrongly mentioned. `Working on a fix.`
+- [ ] Network interface speed can be shown as 10.0 Gb/s. `In the queue`
+
+(Both problems are from the original app, I just have to implement the fix)
+
 ## Installation
 1. [Add my add-ons repository][repository] to your Home Assistant addons.
 1. Install this add-on.
