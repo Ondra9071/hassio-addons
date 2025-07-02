@@ -9,10 +9,9 @@
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 -->
+[![bmc-yellow-button-e91f626c5320efe1868dd75673b6edae7d0e2e4f059d40cd3287a7c8536805e6](https://github.com/user-attachments/assets/9a3ac37f-9968-499b-8353-27d27f4aded5)](https://www.buymeacoffee.com/ondra907)
 
-<a href="https://www.buymeacoffee.com/ondra907"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ondra907&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-[![Stargazers repo roster for @Ondra9071/hassio-addons](https://reporoster.com/stars/Ondra9071/hassio-addons)](https://github.com/Ondra9071/hassio-addons/stargazers)
+[![Stargazers repo roster for @Ondra9071/hassio-addons](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=Ondra9071&repo=hassio-addons)](https://github.com/Ondra9071/hassio-addons/stargazers)
 
 Collection of my Home Assistant addons.
 
